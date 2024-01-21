@@ -1,0 +1,46 @@
+1.Mathematical operations
+Formula based programs like 
+2.     simple interest
+ 3.   compound interest
+ 4.   electric bill calculation
+ 5.  temperature conversion
+ 6.    Currency conversion
+ 7.   Result calculation 
+ 8.   Swapping of numbers
+-----------------------Condition based programs-----------------------------
+ 9.   positive negative 
+10.   even odd 
+ 11    Leap year check 
+ 12     date validation 
+ 13    Number to word conversion using        
+      switch
+  14    character case conversion
+  15    Grade calculation for result.
+---------------------Loops-------------------------------
+ 16.   Addition of a numbers 
+  17  searching a number in  n numbers      
+  18    finding out length of a string   
+  19   reversing string 
+   20   checking occurrence of a substring in a string  
+ 21 replacing substring of a string
+      Series generation like 
+22.even odd number series
+23. Fibonacci series 
+24.number table generation 
+25.Any pattern series
+ 26. Checking palindrome word       
+ 27.  Armstrong number 
+ 28  checking prime number 
+ 29   perfect number
+  30  prime number series
+------------Use of arrays---------------------
+ 31 Storing numbers in one D array     
+ 32   addition of array elements
+ 33   searching a number in array
+ 34  handling matrix using two     
+      dimensional array
+ 35  Matrix mathematics addition,transpose
+
+------------------Menu driven programs-----------------------
+36.string handling, 
+37.matrix manipulation
